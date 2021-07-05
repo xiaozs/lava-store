@@ -1,0 +1,19 @@
+{
+  "name": "lava-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.5",
+    "vue": "^2.6.14"
+  },
+  "dependencies": {}
+}
